@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindBLAS.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindJPEG.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindLAPACK.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPkgConfig.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindTIFF.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake
+C:/Users/karas/tp_projekt_4/matplotplusplus/cmake/FindFFTW.cmake
+C:/Users/karas/tp_projekt_4/matplotplusplus/cmake/FindOpenCV.cmake
+C:/Users/karas/tp_projekt_4/matplotplusplus/source/3rd_party/CMakeLists.txt

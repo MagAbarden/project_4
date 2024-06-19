@@ -1,0 +1,10 @@
+^C:\USERS\KARAS\TP_PROJEKT_4\BUILD\CMAKEFILES\3A8E9550BFCD24D09110F2040F0E4CAA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/karas/tp_projekt_4 -BC:/Users/karas/tp_projekt_4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/karas/tp_projekt_4/build/Projekt3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
