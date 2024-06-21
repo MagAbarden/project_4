@@ -1,7 +1,8 @@
 # Techniki Programowania - Projekt 4
 
-Maciej Kotowski 198001
+Maciej Kotowski 198001 ACIR2,
 Vladyslav Karasov 201280
+ACIR2
 
 Projekt polega na wczytaniu, przetworzeniu oraz zwizualizowaniu sygnałów występujących w systemach robotycznych. Projekt będzie realizowany z wykorzystaniem programu CMake.
 
