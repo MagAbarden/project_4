@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\PlanarQuadrotor\simulate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\PlanarQuadrotor\planar_quadrotor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\PlanarQuadrotor\planar_quadrotor_visualizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\PlanarQuadrotor\lqr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{53D79112-1D88-3877-B867-83F19CCC2C70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

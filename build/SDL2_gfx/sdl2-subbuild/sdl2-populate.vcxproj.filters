@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\16b78f2227190d0503837b85404fbb83\sdl2-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\7ce5dbc5e8d159a02c55697e599e21f3\sdl2-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\b371799706a190a78bf204935cac667e\sdl2-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Maciek\Documents\pg\tp_projekt_4\build\SDL2_gfx\sdl2-subbuild\CMakeFiles\sdl2-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B5E3DD84-37D3-3875-B70E-011FF58F7EAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

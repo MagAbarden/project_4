@@ -1,0 +1,10 @@
+^C:\USERS\MACIEK\DOCUMENTS\PG\TP_PROJEKT_4\BUILD\CMAKEFILES\F9D4D88BE68529EF2C134070FBF92E31\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Maciek/Documents/pg/tp_projekt_4 -BC:/Users/Maciek/Documents/pg/tp_projekt_4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Maciek/Documents/pg/tp_projekt_4/build/Projekt3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

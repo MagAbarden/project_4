@@ -1,0 +1,10 @@
+^C:\USERS\MACIEK\DOCUMENTS\PG\TP_PROJEKT_4\BUILD\_DEPS\EIGEN-SUBBUILD\CMAKEFILES\6C29D3E09504F7724A45AB0657C9D1D7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Maciek/Documents/pg/tp_projekt_4/build/_deps/eigen-subbuild -BC:/Users/Maciek/Documents/pg/tp_projekt_4/build/_deps/eigen-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Maciek/Documents/pg/tp_projekt_4/build/_deps/eigen-subbuild/eigen-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

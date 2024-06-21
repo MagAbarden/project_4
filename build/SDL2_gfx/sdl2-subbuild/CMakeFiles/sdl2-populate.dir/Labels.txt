@@ -1,0 +1,14 @@
+# Target labels
+ sdl2-populate
+# Source files and their labels
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/sdl2-populate
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/b371799706a190a78bf204935cac667e/sdl2-populate.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/7ce5dbc5e8d159a02c55697e599e21f3/sdl2-populate-complete.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-build.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-configure.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-download.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-install.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-mkdir.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-patch.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-test.rule
+C:/Users/Maciek/Documents/pg/tp_projekt_4/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/16b78f2227190d0503837b85404fbb83/sdl2-populate-update.rule
