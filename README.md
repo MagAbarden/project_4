@@ -1,6 +1,7 @@
 # Techniki Programowania - Projekt 4
 
 Maciej Kotowski 198001
+Vladyslav Karasov 201280
 
 Projekt polega na wczytaniu, przetworzeniu oraz zwizualizowaniu sygnałów występujących w systemach robotycznych. Projekt będzie realizowany z wykorzystaniem programu CMake.
 
